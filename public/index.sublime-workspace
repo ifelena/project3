@@ -1,0 +1,292 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tr",
+				"trHTML"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "Package Control Install",
+		"selected_items":
+		[
+			[
+				"Package Control Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"Packge Control: Unaimport urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)ble to download https://packagecontrol.io/channel_v3.json after 3 attempts",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/junglemunchkin/Desktop/asgard/node_modules/mongoclient/package.json",
+		"/Users/junglemunchkin/Desktop/asgard/public/event-register.js",
+		"/Users/junglemunchkin/Desktop/asgard/public/index.html",
+		"/Users/junglemunchkin/Desktop/asgard/public/style.css",
+		"/Users/junglemunchkin/Desktop/asgard/public/event-register.html",
+		"/Users/junglemunchkin/Desktop/asgard/index.html",
+		"/Users/junglemunchkin/Desktop/asgard/app.js",
+		"/Users/junglemunchkin/Desktop/github-uploads/react-apps/react-game/package.json",
+		"/Users/junglemunchkin/Desktop/github-uploads/reactpractice/src/app.js",
+		"/Users/junglemunchkin/Desktop/github-uploads/pizza-blockchain/App.js",
+		"/Users/junglemunchkin/Desktop/github-uploads/pizza-blockchain/src/App.js",
+		"/Users/junglemunchkin/Desktop/github-uploads/pizza-blockchain/views/home.js",
+		"/Users/junglemunchkin/Desktop/github-uploads/pizza-blockchain/controllers/routes.js",
+		"/Users/junglemunchkin/Desktop/github-uploads/mongo-scrape/node_modules/muri/index.js",
+		"/Users/junglemunchkin/Desktop/github-uploads/mongo-scrape/server.js",
+		"/Users/junglemunchkin/Desktop/github-uploads/mongo-scrape/style.css",
+		"/Users/junglemunchkin/Desktop/github-uploads/mongo-scrape/public/app.js",
+		"/Users/junglemunchkin/Desktop/github-uploads/mongo-scrape/index.html",
+		"/Users/junglemunchkin/Desktop/github-uploads/mongo-scrape/package.json",
+		"/Users/junglemunchkin/Desktop/github-uploads/mongo-scrape/models/index.js",
+		"/Users/junglemunchkin/Desktop/github-uploads/mongo-scrape/models/note.js",
+		"/Users/junglemunchkin/Desktop/github-uploads/mongo-scrape/models/article.js",
+		"/Users/junglemunchkin/Desktop/github-uploads/mongo-scrape/untitled.html",
+		"/Users/junglemunchkin/Desktop/github-uploads/teamproject2dev/skp/fullfunctionalityWlist/query.js",
+		"/Users/junglemunchkin/Desktop/github-uploads/teamproject2dev/skp/fullfunctionalityWlist/server.js",
+		"/Users/junglemunchkin/Desktop/github-uploads/teamproject2dev/skp/wlist/views/myaccount.handlebars",
+		"/Users/junglemunchkin/Desktop/github-uploads/teamproject2dev/skp/fullfunctionalityWlist/views/index.handlebars",
+		"/Users/junglemunchkin/Desktop/github-uploads/teamproject2dev/skp/layouts/main.handlebars",
+		"/Users/junglemunchkin/Desktop/github-uploads/teamproject2dev/skp/wlist/server.js",
+		"/Users/junglemunchkin/Desktop/github-uploads/teamproject2dev/skp/wlist/views/layouts/main.handlebars",
+		"/Users/junglemunchkin/Desktop/github-uploads/teamproject2dev/Ife/lists.css",
+		"/Users/junglemunchkin/Desktop/github-uploads/teamproject2dev/Ife/wishlist.html",
+		"/Users/junglemunchkin/Desktop/github-uploads/teamproject2dev/Ife/index.handlebars",
+		"/Users/junglemunchkin/Desktop/github-uploads/teamproject2dev/Ife/lists_controller.js",
+		"/Users/junglemunchkin/Desktop/github-uploads/teamproject2dev/Ife/orm.js",
+		"/Users/junglemunchkin/Downloads/Moo2.html",
+		"/Users/junglemunchkin/Desktop/github-uploads/WishList-work/wishList.js",
+		"/Users/junglemunchkin/Desktop/github-uploads/WishList work/semantic-trial.js",
+		"/Users/junglemunchkin/Desktop/github-uploads/wishlist-sql",
+		"/Users/junglemunchkin/Downloads/assert.js",
+		"/Users/junglemunchkin/Desktop/github-uploads/10-4/greatBayBasic.js",
+		"/Users/junglemunchkin/Desktop/github-uploads/flashcard-generator/ClozeCard.js",
+		"/Users/junglemunchkin/Desktop/github-uploads/flashcard-generator/BasicCard.js",
+		"/Users/junglemunchkin/Desktop/github-uploads/liri-node-app/keys.js",
+		"/Users/junglemunchkin/Desktop/github-uploads/liri-node-app/package.json",
+		"/Users/junglemunchkin/Desktop/github-uploads/liri-node-app/liri.js",
+		"/Users/junglemunchkin/Desktop/Coding-Bootcamp/9-20/read.js",
+		"/Users/junglemunchkin/Desktop/Coding-Bootcamp/9-20/write.js",
+		"/Users/junglemunchkin/Desktop/sriracha.js",
+		"/Users/junglemunchkin/Desktop/GithubUploads/new-work-saved.js",
+		"/Users/junglemunchkin/Desktop/Coding Bootcamp/MS Project/bit-project-work.html",
+		"/Users/junglemunchkin/Desktop/GithubUploads/Tourdates/tourdate-table.html",
+		"/Users/junglemunchkin/Desktop/GithubUploads/Musical-Stalker/latest-commit.html",
+		"/Users/junglemunchkin/fictional-palm-tree/ife.md",
+		"/Users/junglemunchkin/Desktop/GithubUploads/latest-commit.html",
+		"/Users/junglemunchkin/Downloads/bands-in-town-solved.html",
+		"/Users/junglemunchkin/Downloads/team-project.html",
+		"/bandsintown.html",
+		"/Users/junglemunchkin/Desktop/Coding Bootcamp/modal.html",
+		"/Users/junglemunchkin/Downloads/02-recent-user-with-push.html",
+		"/Users/junglemunchkin/Downloads/2-student-do-signin-no-persistence-solution_html.html",
+		"/Users/junglemunchkin/Downloads/Phase-02.md",
+		"/Users/junglemunchkin/Downloads/nyt.js",
+		"/Users/junglemunchkin/Downloads/nyt.html",
+		"/Users/junglemunchkin/Downloads/single-ajax.html",
+		"/Users/junglemunchkin/Downloads/ajax-to-html.html",
+		"/Users/junglemunchkin/Downloads/bujumbura-solved.html",
+		"/Users/junglemunchkin/Downloads/bands-in-town-unsolved.html",
+		"/Users/junglemunchkin/Downloads/movie-json-dump-solution.html",
+		"/Users/junglemunchkin/Desktop/GithubUploads/week-4-game/assets/css/reset.css",
+		"/Users/junglemunchkin/Desktop/GithubUploads/week-4-game/assets/css/style.css",
+		"/Users/junglemunchkin/Desktop/GithubUploads/week-4-game/assets/javascript/game.js",
+		"/Users/junglemunchkin/Desktop/GithubUploads/week-4-game/index.html",
+		"/Users/junglemunchkin/Desktop/GithubUploads/Hangman-Game/assets/javascript/hangmanex.js",
+		"/Users/junglemunchkin/Desktop/GithubUploads/Basic-Portfolio/assets/css/style.css",
+		"/Users/junglemunchkin/Downloads/lexical-scope-3-unsolved.html",
+		"/Users/junglemunchkin/Downloads/lexical-scope-1-unsolved.html",
+		"/Users/junglemunchkin/Downloads/jquery drinklist.html",
+		"/Users/junglemunchkin/Downloads/drinklist-unsolved.html",
+		"/Users/junglemunchkin/Desktop/GithubUploads/Responsive-Portfolio/portfolio.html",
+		"/Users/junglemunchkin/Desktop/GithubUploads/Responsive-Portfolio/index.html",
+		"/Users/junglemunchkin/Desktop/GithubUploads/Responsive-Portfolio/contact.html",
+		"/Users/junglemunchkin/Desktop/GithubUploads/Responsive-Portfolio/assets/css/style.css",
+		"/Users/junglemunchkin/Desktop/Coding Bootcamp/eloquent.js",
+		"/Users/junglemunchkin/Downloads/arrays-activity.html",
+		"/Users/junglemunchkin/Desktop/Coding Bootcamp/RPS/rps.html",
+		"/Users/junglemunchkin/Desktop/GithubUploads/Basic-Portfolio/assets/css/reset.css",
+		"/Users/junglemunchkin/Desktop/GithubUploads/Basic-Portfolio/portfolio.html",
+		"/Users/junglemunchkin/Desktop/GithubUploads/Basic-Portfolio/contact.html",
+		"/Users/junglemunchkin/Desktop/GithubUploads/Basic-Portfolio/index.html",
+		"/Users/junglemunchkin/Desktop/GithubUploads/Basic-Portfolio/assets/css/pstyle.css",
+		"/Users/junglemunchkin/Desktop/GithubUploads/Basic-Portfolio/assets/css/cstyle.css",
+		"/Users/junglemunchkin/Desktop/GithubUploads/Basic-Portfolio/bootstrap2.html",
+		"/Users/junglemunchkin/Desktop/Coding Bootcamp/WDS/skeleton.css",
+		"/Users/junglemunchkin/Desktop/Coding Bootcamp/WDS/skeleton.html",
+		"/Users/junglemunchkin/Desktop/GithubUploads/Basic-Portfolio/bootstrap.html",
+		"/Users/junglemunchkin/Desktop/Coding Bootcamp/floats.html",
+		"/Users/junglemunchkin/Desktop/Coding Bootcamp/floats.css",
+		"/Users/junglemunchkin/Desktop/Coding Bootcamp/reset.html",
+		"/Users/junglemunchkin/Desktop/Coding Bootcamp/reset.css",
+		"/Users/junglemunchkin/Desktop/Coding Bootcamp/Positioning/positioning.css",
+		"/Users/junglemunchkin/Desktop/Coding Bootcamp/Positioning/positioning.html",
+		"/Users/junglemunchkin/Desktop/:git/portfolio.html",
+		"/Users/junglemunchkin/Desktop/class/HTML-work/index.html",
+		"/Users/junglemunchkin/Desktop/PREWORK_IR/Module-10/html practice.html",
+		"/Users/junglemunchkin/Desktop/PREWORK_IR/Module-10/javascript.js",
+		"/Users/junglemunchkin/Desktop/PREWORK_IR/Module-10/index.html",
+		"/Users/junglemunchkin/Desktop/PREWORK_IR/Module-9/A Chocolatety Dilemma.html",
+		"/Users/junglemunchkin/Desktop/PREWORK_IR/Module-9/index.html",
+		"/Users/junglemunchkin/Desktop/PREWORK_IR/Module-9/style.css",
+		"/Users/junglemunchkin/Desktop/PREWORK_IR/Module-8/fanpage.html",
+		"/Users/junglemunchkin/Desktop/My_First_Website.html",
+		"/Users/junglemunchkin/Downloads/Package Control.sublime-package"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/Coding Bootcamp/RPS/rps.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
