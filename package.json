@@ -2,7 +2,11 @@
   "name": "asgard",
   "version": "1.0.0",
   "description": "phantay wrestling",
-  "main": "server.js",
+  "main": "server.js",  
+  "engines": {
+    "node": "6.11.0",
+    "npm": "3.10.10"
+  },
   "scripts": {
     "start": "node server.js",
     "start": "node app.js",
