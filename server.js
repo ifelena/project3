@@ -22,7 +22,7 @@ const bodyParser = require('body-parser');
 const logger = require("morgan");
 
 const app = express();
-const port = 2000;
+const port =  process.env.PORT || 2000;
 
 
 
@@ -197,18 +197,18 @@ function createUserPicks(item) {
 createUserPicks();
 
 //Route for Authentication and redirection
-server.get('/callback',
-  passport.authenticate('auth0', { failureRedirect: '/login' }),
-  function(req, res) {
-    if (!req.user) {
-      throw new Error('user null');
-    }
-    res.redirect("/");
-  }
-);
+// server.get('/callback',
+//   passport.authenticate('auth0', { failureRedirect: '/login' }),
+//   function(req, res) {
+//     if (!req.user) {
+//       throw new Error('user null');
+//     }
+//     res.redirect("/");
+//   }
+// );
 
-server.get('/login',
-  passport.authenticate('auth0', {}), function (req, res) {
-  res.redirect("/");
-})
+// server.get('/login',
+//   passport.authenticate('auth0', {}), function (req, res) {
+//   res.redirect("/");
+// })
 
